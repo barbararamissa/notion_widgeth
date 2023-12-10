@@ -1,0 +1,31 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container" style="height:100%;width:100%">
+  <div id="tradingview_0df47" style="height:calc(100% - 32px);width:100%"></div>
+  <div class="tradingview-widget-copyright"><a href="https://br.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Monitore todos os mercados no TradingView</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "OANDA:EURUSD",
+  "timezone": "Etc/UTC",
+  "theme": "dark",
+  "style": "1",
+  "locale": "br",
+  "enable_publishing": true,
+  "withdateranges": true,
+  "range": "YTD",
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "details": true,
+  "hotlist": true,
+  "calendar": true,
+  "studies": [
+    "STD;Divergence%1Indicator"
+  ],
+  "container_id": "tradingview_0df47"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
