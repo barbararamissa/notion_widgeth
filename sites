@@ -1,0 +1,36 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>
+<![CDATA[ Últimas Notícias - Investing.com ]]>
+</title>
+<description>
+<![CDATA[ Fique atualizado com os últimos destaques de notícias. Encontra atualizações em tempo real do mercado e as últimas manchetes em ações, commodities, moedas e mais. ]]>
+</description>
+<link>https://br.investing.com/news/headlines</link>
+<image>
+<url>https://i-invdn-com.investing.com/logos/favicon.ico</url>
+<title>Últimas Notícias - Investing.com</title>
+<link>https://br.investing.com/news/headlines</link>
+</image>
+<generator>https://rss.app</generator>
+<lastBuildDate>Wed, 20 Dec 2023 16:51:34 GMT</lastBuildDate>
+<atom:link href="https://rss.app/feeds/bKcQyeLliAhid9aF.xml" rel="self" type="application/rss+xml"/>
+<language>
+<![CDATA[ en ]]>
+</language>
+<item>
+<title>
+<![CDATA[ [Action required] Your RSS.app Trial has Expired. ]]>
+</title>
+<description>
+<![CDATA[ Your trial has expired. Please update your subscription plan at <a href="https://rss.app">rss.app</a>. - (bKcQyeLliAhid9aF) ]]>
+</description>
+<link>https://rss.app</link>
+<guid isPermaLink="false">6827a856afba4e95e7778cfb18c72424</guid>
+<dc:creator>
+<![CDATA[ rss.app ]]>
+</dc:creator>
+<pubDate>Wed, 20 Dec 2023 16:51:34 GMT</pubDate>
+</item>
+</channel>
+</rss>
